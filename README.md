@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samir HILALI
 - 👀 I’m interested in rust/javascript/wasm/react/nextjs/nestjs 
 - 🌱 I’m currently learning react, nextjs
-- 💞️ I’m looking to collaborate on ewosmart.com
+- 💞️ I’m looking to collaborate on https://ewosmart.com
 - 📫 How to reach me samir.hilali@epitech.eu
 
 <!---
