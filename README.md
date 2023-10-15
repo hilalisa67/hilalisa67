@@ -2,7 +2,6 @@
 - 👀 I’m interested in rust/javascript/wasm/angular/spring/flutter 
 - 🌱 I’m currently learning react, nextjs
 - 💞️ I’m looking to collaborate on https://ewosmart.com
-- 📫 How to reach me samir.hilali@epitech.eu
 
 <!---
 hilalisa67/hilalisa67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
